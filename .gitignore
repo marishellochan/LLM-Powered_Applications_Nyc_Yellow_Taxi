@@ -1,0 +1,20 @@
+#Ignore data files
+data/
+
+#Ignore virual environment
+.venv/
+
+.env
+env
+
+__pycache__/
+
+chroma_db/
+
+chroma_db_1000/
+
+chroma_db_2000/
+
+chroma_db_500/
+
+output/
