@@ -74,15 +74,6 @@ The notebook connects to a course-hosted LLM server (`llama3.3-70b-instruct`). I
 
 ---
 
-## Parts Overview
-
-| Part | Description | Marks |
-|------|-------------|-------|
-| Part 1 | Distributed Data Processing with Spark | 30 |
-| Part 2 | RAG Pipeline over Transportation Documents | 35 |
-| Part 3 | Integrated Analytics Application | 25 |
-| Part 4 | Documentation & Code Quality | 10 |
-
 ### Part 1 — Spark
 - SparkSession configured with AQE, memory settings, and local mode
 - Data cleaned (null removal, invalid trip filtering, ~95k rows removed)
